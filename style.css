@@ -59,6 +59,10 @@ body {
 .cell.circle {
 	cursor: not-allowed;
 }
+
+.board.x .cell:hover {
+}
+
 .cell.x::before,
 .cell.x::after {
 	content: "";
