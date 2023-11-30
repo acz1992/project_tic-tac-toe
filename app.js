@@ -25,3 +25,16 @@ const Player = function (name, marker) {
 		marker,
 	};
 };
+
+// Create Game Logic
+
+const gameLogic = (function () {
+	// Create Players
+	// Designate Markers
+	// Start Game
+	// Game round
+	// if statements - if player 1 go false, function player 2 goes
+	// store positions function
+	// start with empty array
+	// save selected position
+})();
