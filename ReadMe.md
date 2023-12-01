@@ -1,9 +1,10 @@
 To Do:
 
--   Create Game Logic (so it works in console)
-    > Create Module for controlling game IIFE
+> Create computer generated 0 opponent
+> Modularize Javascript Code (IIFEs and Factory Functions)
 
 Done:
 
 > Create gameBoard IIFE -
 > Create Players FF
+> Create game logic
